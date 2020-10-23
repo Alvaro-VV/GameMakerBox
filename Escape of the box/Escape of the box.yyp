@@ -55,11 +55,13 @@
     {"id":{"name":"Principal","path":"rooms/Principal/Principal.yy",},"order":3,},
     {"id":{"name":"Seba","path":"objects/Seba/Seba.yy",},"order":0,},
     {"id":{"name":"past","path":"objects/past/past.yy",},"order":5,},
+    {"id":{"name":"tp_player","path":"objects/tp_player/tp_player.yy",},"order":0,},
     {"id":{"name":"Casa","path":"sprites/Casa/Casa.yy",},"order":0,},
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},"order":2,},
     {"id":{"name":"bloque3S","path":"sprites/bloque3S/bloque3S.yy",},"order":3,},
     {"id":{"name":"intermedio","path":"objects/intermedio/intermedio.yy",},"order":2,},
     {"id":{"name":"IzqArbol","path":"objects/IzqArbol/IzqArbol.yy",},"order":6,},
+    {"id":{"name":"Sprite40","path":"sprites/Sprite40/Sprite40.yy",},"order":1,},
     {"id":{"name":"Ar_Rojo","path":"sprites/Ar_Rojo/Ar_Rojo.yy",},"order":3,},
     {"id":{"name":"sprite","path":"sprites/sprite/sprite.yy",},"order":0,},
     {"id":{"name":"_475","path":"sprites/_475/_475.yy",},"order":0,},
@@ -99,10 +101,10 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"Principal","path":"rooms/Principal/Principal.yy",},
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
     {"name":"Laboratorio_Room","path":"rooms/Laboratorio_Room/Laboratorio_Room.yy",},
     {"name":"Zona_5G_Room","path":"rooms/Zona_5G_Room/Zona_5G_Room.yy",},
+    {"name":"Principal","path":"rooms/Principal/Principal.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -132,6 +134,7 @@
     {"folderPath":"folders/Objetos/viajar.yy","order":3,"resourceVersion":"1.0","name":"viajar","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/mapa/Zona_5G.yy","order":20,"resourceVersion":"1.0","name":"Zona_5G","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objetos/mapeo/Zona_5G.yy","order":20,"resourceVersion":"1.0","name":"Zona_5G","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objetos/Teletransporte.yy","order":4,"resourceVersion":"1.0","name":"Teletransporte","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
