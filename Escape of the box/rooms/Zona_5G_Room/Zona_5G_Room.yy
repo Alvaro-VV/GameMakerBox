@@ -145,6 +145,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"col","path":"objects/col/col.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":448.0,"resourceVersion":"1.0","name":"inst_35271A11","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"col","path":"objects/col/col.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":416.0,"resourceVersion":"1.0","name":"inst_6128621B","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"col","path":"objects/col/col.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":384.0,"resourceVersion":"1.0","name":"inst_40FEFD31","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"adelante","path":"objects/adelante/adelante.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.63380277,"scaleY":1.551181,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":685.0,"y":255.0,"resourceVersion":"1.0","name":"inst_14467957","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":224.0,"resourceVersion":"1.0","name":"graphic_7546507","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -412,6 +413,7 @@
     {"name":"inst_35271A11","path":"rooms/Zona_5G_Room/Zona_5G_Room.yy",},
     {"name":"inst_6128621B","path":"rooms/Zona_5G_Room/Zona_5G_Room.yy",},
     {"name":"inst_40FEFD31","path":"rooms/Zona_5G_Room/Zona_5G_Room.yy",},
+    {"name":"inst_14467957","path":"rooms/Zona_5G_Room/Zona_5G_Room.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
