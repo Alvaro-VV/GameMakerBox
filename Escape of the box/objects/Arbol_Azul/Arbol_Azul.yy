@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Ar_Azul",
-    "path": "sprites/Ar_Azul/Ar_Azul.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
