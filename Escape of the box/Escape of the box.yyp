@@ -17,6 +17,7 @@
     {"id":{"name":"Sprite45","path":"sprites/Sprite45/Sprite45.yy",},"order":12,},
     {"id":{"name":"sprite4","path":"sprites/sprite4/sprite4.yy",},"order":5,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":2,},
+    {"id":{"name":"movi","path":"sprites/movi/movi.yy",},"order":1,},
     {"id":{"name":"puertaV","path":"objects/puertaV/puertaV.yy",},"order":3,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":6,},
     {"id":{"name":"Puertamagenta","path":"objects/Puertamagenta/Puertamagenta.yy",},"order":5,},
