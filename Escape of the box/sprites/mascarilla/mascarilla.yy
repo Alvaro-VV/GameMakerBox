@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "objetos",
-    "path": "folders/Sprites/objetos.yy",
+    "path": "folders/Sprites/mapa/objetos.yy",
   },
   "resourceVersion": "1.0",
   "name": "mascarilla",
