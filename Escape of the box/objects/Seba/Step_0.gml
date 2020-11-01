@@ -14,6 +14,7 @@ k_up= keyboard_check(vk_up);
 k_s= keyboard_check( ord("S"));
 k_down= keyboard_check(vk_down);
 
+k_ataque= keyboard_check_pressed(vk_space);
 mov=5;
 #endregion
 
@@ -24,7 +25,7 @@ if(k_a or k_left)
 	sprite_index= right;
 	image_speed=1;
 	x=x-mov;
-
+	global.mira="left";
 }
 else if(k_d or k_right)
 {
@@ -32,12 +33,14 @@ else if(k_d or k_right)
 	sprite_index=right;
 	x=x+mov;
 	image_speed=1;
+	global.mira="right";
 }
 else if(k_w or k_up)
 {
 	sprite_index=up;
 	y=y-mov;
 	image_speed=1;
+	global.mira="up";
 }
 else if(k_down or k_s)
 {
@@ -45,6 +48,7 @@ else if(k_down or k_s)
 	sprite_index=down;
 	y=y+mov;
 	image_speed=1;
+	global.mira="down";
 }
 else if(keyboard_check_released(ord("A")) or keyboard_check_released(vk_left))
 {
@@ -70,3 +74,24 @@ else if((keyboard_check_released(ord("W")) or keyboard_check_released(vk_up)))
 }
 #endregion
 
+#region pegar
+if k_ataque
+{
+	switch (global.mira)
+	{
+		case "up":
+		instance_create_depth(x,y-32,-1,golpe);
+		break;
+		case "down":
+		instance_create_depth(x,y+48,-1,golpe);
+		break;
+		case "left":
+		instance_create_depth(x-32,y,-1,golpe);
+		break;
+		case "right":
+		instance_create_depth(x+32,y,-1,golpe);
+		break;
+		default: break;
+	}
+}
+#endregion
