@@ -61,7 +61,7 @@
     {"id":{"name":"past","path":"objects/past/past.yy",},"order":5,},
     {"id":{"name":"tp_player","path":"objects/tp_player/tp_player.yy",},"order":0,},
     {"id":{"name":"Casa","path":"sprites/Casa/Casa.yy",},"order":0,},
-    {"id":{"name":"Escalerita","path":"sprites/Escalerita/Escalerita.yy",},"order":4,},
+    {"id":{"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},"order":4,},
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},"order":2,},
     {"id":{"name":"bloque3S","path":"sprites/bloque3S/bloque3S.yy",},"order":3,},
     {"id":{"name":"intermedio","path":"objects/intermedio/intermedio.yy",},"order":2,},

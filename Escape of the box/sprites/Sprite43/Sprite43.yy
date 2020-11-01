@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"86ef1d38-d090-48d1-8fd8-ed6b5386e9ec","path":"sprites/Escalerita/Escalerita.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"86ef1d38-d090-48d1-8fd8-ed6b5386e9ec","path":"sprites/Escalerita/Escalerita.yy",},"LayerId":{"name":"147f747f-6900-4398-a06c-d7fe663a03d8","path":"sprites/Escalerita/Escalerita.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Escalerita","path":"sprites/Escalerita/Escalerita.yy",},"resourceVersion":"1.0","name":"86ef1d38-d090-48d1-8fd8-ed6b5386e9ec","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"86ef1d38-d090-48d1-8fd8-ed6b5386e9ec","path":"sprites/Sprite43/Sprite43.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"86ef1d38-d090-48d1-8fd8-ed6b5386e9ec","path":"sprites/Sprite43/Sprite43.yy",},"LayerId":{"name":"147f747f-6900-4398-a06c-d7fe663a03d8","path":"sprites/Sprite43/Sprite43.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},"resourceVersion":"1.0","name":"86ef1d38-d090-48d1-8fd8-ed6b5386e9ec","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Escalerita","path":"sprites/Escalerita/Escalerita.yy",},
+    "spriteId": {"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"aabf3d6a-3109-478d-9eba-229e318d6dad","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86ef1d38-d090-48d1-8fd8-ed6b5386e9ec","path":"sprites/Escalerita/Escalerita.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"aabf3d6a-3109-478d-9eba-229e318d6dad","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86ef1d38-d090-48d1-8fd8-ed6b5386e9ec","path":"sprites/Sprite43/Sprite43.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Escalerita","path":"sprites/Escalerita/Escalerita.yy",},
+    "parent": {"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},
     "resourceVersion": "1.3",
-    "name": "Escalerita",
+    "name": "Sprite43",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Escalerita",
+  "name": "Sprite43",
   "tags": [],
   "resourceType": "GMSprite",
 }
