@@ -26,7 +26,6 @@
     {"id":{"name":"Sprite45","path":"sprites/Sprite45/Sprite45.yy",},"order":12,},
     {"id":{"name":"sprite4","path":"sprites/sprite4/sprite4.yy",},"order":5,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":2,},
-    {"id":{"name":"hitbox","path":"sprites/hitbox/hitbox.yy",},"order":1,},
     {"id":{"name":"puertaV","path":"objects/puertaV/puertaV.yy",},"order":3,},
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34,6 +33,7 @@
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":6,},
     {"id":{"name":"Puertamagenta","path":"objects/Puertamagenta/Puertamagenta.yy",},"order":5,},
     {"id":{"name":"medioArbol","path":"objects/medioArbol/medioArbol.yy",},"order":7,},
+<<<<<<< Updated upstream
     {"id":{"name":"awadelado","path":"sprites/awadelado/awadelado.yy",},"order":10,},
 =======
 =======
@@ -49,6 +49,8 @@
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
 =======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
+=======
+>>>>>>> Stashed changes
     {"id":{"name":"pist22","path":"objects/pist22/pist22.yy",},"order":6,},
     {"id":{"name":"Laboratorio_Room","path":"rooms/Laboratorio_Room/Laboratorio_Room.yy",},"order":1,},
     {"id":{"name":"esquina","path":"objects/esquina/esquina.yy",},"order":0,},
@@ -100,10 +102,8 @@
     {"id":{"name":"Sprite71","path":"sprites/Sprite71/Sprite71.yy",},"order":4,},
     {"id":{"name":"lateral","path":"objects/lateral/lateral.yy",},"order":1,},
     {"id":{"name":"puerta1S","path":"sprites/puerta1S/puerta1S.yy",},"order":4,},
-    {"id":{"name":"golpe","path":"objects/golpe/golpe.yy",},"order":6,},
     {"id":{"name":"bloque2S","path":"sprites/bloque2S/bloque2S.yy",},"order":2,},
     {"id":{"name":"ArbolDer","path":"objects/ArbolDer/ArbolDer.yy",},"order":1,},
-    {"id":{"name":"dummyO","path":"objects/dummyO/dummyO.yy",},"order":5,},
     {"id":{"name":"col","path":"objects/col/col.yy",},"order":2,},
     {"id":{"name":"bloque1S","path":"sprites/bloque1S/bloque1S.yy",},"order":1,},
     {"id":{"name":"Sprite41","path":"sprites/Sprite41/Sprite41.yy",},"order":8,},
@@ -133,7 +133,6 @@
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},"order":2,},
     {"id":{"name":"Sprite42","path":"sprites/Sprite42/Sprite42.yy",},"order":9,},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},"order":3,},
-    {"id":{"name":"key1O","path":"objects/key1O/key1O.yy",},"order":7,},
     {"id":{"name":"arbolbajom","path":"objects/arbolbajom/arbolbajom.yy",},"order":0,},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},"order":1,},
     {"id":{"name":"bloque4S","path":"sprites/bloque4S/bloque4S.yy",},"order":7,},
