@@ -1,7 +1,12 @@
 {
   "spriteId": {
+<<<<<<< HEAD
     "name": "dummy",
     "path": "sprites/dummy/dummy.yy",
+=======
+    "name": "Sprite62",
+    "path": "sprites/Sprite62/Sprite62.yy",
+>>>>>>> Alvo
   },
   "solid": false,
   "visible": true,

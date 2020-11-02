@@ -1,7 +1,12 @@
 {
   "spriteId": {
+<<<<<<< HEAD
     "name": "key1S",
     "path": "sprites/key1S/key1S.yy",
+=======
+    "name": "Sprite59",
+    "path": "sprites/Sprite59/Sprite59.yy",
+>>>>>>> Alvo
   },
   "solid": false,
   "visible": true,
@@ -21,8 +26,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+<<<<<<< HEAD
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"key1O","path":"objects/key1O/key1O.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"key1O","path":"objects/key1O/key1O.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+=======
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"key1O","path":"objects/key1O/key1O.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"key1O","path":"objects/key1O/key1O.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+>>>>>>> Alvo
   ],
   "properties": [],
   "overriddenProperties": [],
