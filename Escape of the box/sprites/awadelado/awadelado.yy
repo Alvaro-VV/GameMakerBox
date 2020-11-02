@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8771148a-0fa5-436b-8837-03444ae95f4c","path":"sprites/Sprite43/Sprite43.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8771148a-0fa5-436b-8837-03444ae95f4c","path":"sprites/Sprite43/Sprite43.yy",},"LayerId":{"name":"f6843705-e002-4816-beaf-4452f77940bf","path":"sprites/Sprite43/Sprite43.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},"resourceVersion":"1.0","name":"8771148a-0fa5-436b-8837-03444ae95f4c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8771148a-0fa5-436b-8837-03444ae95f4c","path":"sprites/awadelado/awadelado.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8771148a-0fa5-436b-8837-03444ae95f4c","path":"sprites/awadelado/awadelado.yy",},"LayerId":{"name":"f6843705-e002-4816-beaf-4452f77940bf","path":"sprites/awadelado/awadelado.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"awadelado","path":"sprites/awadelado/awadelado.yy",},"resourceVersion":"1.0","name":"8771148a-0fa5-436b-8837-03444ae95f4c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},
+    "spriteId": {"name":"awadelado","path":"sprites/awadelado/awadelado.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"70598e9e-82f4-4b1b-b61a-4eb2a2180104","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8771148a-0fa5-436b-8837-03444ae95f4c","path":"sprites/Sprite43/Sprite43.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"70598e9e-82f4-4b1b-b61a-4eb2a2180104","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8771148a-0fa5-436b-8837-03444ae95f4c","path":"sprites/awadelado/awadelado.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},
+    "parent": {"name":"awadelado","path":"sprites/awadelado/awadelado.yy",},
     "resourceVersion": "1.3",
-    "name": "Sprite43",
+    "name": "awadelado",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites/mapa/entorno.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Sprite43",
+  "name": "awadelado",
   "tags": [],
   "resourceType": "GMSprite",
 }
