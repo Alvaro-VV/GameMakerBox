@@ -3,9 +3,12 @@
     {"id":{"name":"awa2","path":"objects/awa2/awa2.yy",},"order":2,},
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},"order":4,},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"Sprite56","path":"sprites/Sprite56/Sprite56.yy",},"order":10,},
     {"id":{"name":"impacto_enemigo","path":"scripts/impacto_enemigo/impacto_enemigo.yy",},"order":0,},
     {"id":{"name":"escalera","path":"sprites/escalera/escalera.yy",},"order":23,},
+=======
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
 =======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
     {"id":{"name":"choque","path":"objects/choque/choque.yy",},"order":6,},
@@ -26,12 +29,15 @@
     {"id":{"name":"hitbox","path":"sprites/hitbox/hitbox.yy",},"order":1,},
     {"id":{"name":"puertaV","path":"objects/puertaV/puertaV.yy",},"order":3,},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"Sprite62","path":"sprites/Sprite62/Sprite62.yy",},"order":3,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":6,},
     {"id":{"name":"Puertamagenta","path":"objects/Puertamagenta/Puertamagenta.yy",},"order":5,},
     {"id":{"name":"medioArbol","path":"objects/medioArbol/medioArbol.yy",},"order":7,},
     {"id":{"name":"awadelado","path":"sprites/awadelado/awadelado.yy",},"order":10,},
 =======
+=======
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},"order":6,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":6,},
     {"id":{"name":"Puertamagenta","path":"objects/Puertamagenta/Puertamagenta.yy",},"order":5,},
@@ -39,14 +45,20 @@
     {"id":{"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},"order":10,},
     {"id":{"name":"forlab","path":"objects/forlab/forlab.yy",},"order":0,},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":4,},
+<<<<<<< HEAD
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
+=======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
     {"id":{"name":"pist22","path":"objects/pist22/pist22.yy",},"order":6,},
     {"id":{"name":"Laboratorio_Room","path":"rooms/Laboratorio_Room/Laboratorio_Room.yy",},"order":1,},
     {"id":{"name":"esquina","path":"objects/esquina/esquina.yy",},"order":0,},
     {"id":{"name":"pist3","path":"objects/pist3/pist3.yy",},"order":7,},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"Sprite70","path":"sprites/Sprite70/Sprite70.yy",},"order":8,},
     {"id":{"name":"aguadeLadito","path":"sprites/aguadeLadito/aguadeLadito.yy",},"order":18,},
+=======
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
 =======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
     {"id":{"name":"Fuente1","path":"fonts/Fuente1/Fuente1.yy",},"order":0,},
@@ -66,8 +78,12 @@
     {"id":{"name":"PasoBosque_Room","path":"rooms/PasoBosque_Room/PasoBosque_Room.yy",},"order":3,},
     {"id":{"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},"order":2,},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"miniCueva","path":"rooms/miniCueva/miniCueva.yy",},"order":6,},
     {"id":{"name":"Sprite59","path":"sprites/Sprite59/Sprite59.yy",},"order":2,},
+=======
+    {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},"order":0,},
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
 =======
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},"order":0,},
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
@@ -153,10 +169,13 @@
     {"name":"Principal","path":"rooms/Principal/Principal.yy",},
     {"name":"ZonaBoos_Room","path":"rooms/ZonaBoos_Room/ZonaBoos_Room.yy",},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"name":"BosqueFunas_Room","path":"rooms/BosqueFunas_Room/BosqueFunas_Room.yy",},
     {"name":"miniCueva","path":"rooms/miniCueva/miniCueva.yy",},
     {"name":"ZonaVirus_Room","path":"rooms/ZonaVirus_Room/ZonaVirus_Room.yy",},
     {"name":"LaboratorioSub_Room","path":"rooms/LaboratorioSub_Room/LaboratorioSub_Room.yy",},
+=======
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
 =======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
   ],
@@ -190,9 +209,12 @@
     {"folderPath":"folders/Objetos/mapeo/Zona_5G.yy","order":20,"resourceVersion":"1.0","name":"Zona_5G","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objetos/Teletransporte.yy","order":4,"resourceVersion":"1.0","name":"Teletransporte","tags":[],"resourceType":"GMFolder",},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"folderPath":"folders/Sprites/mapa/bosque/bosquefuna.yy","order":15,"resourceVersion":"1.0","name":"bosquefuna","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/mapa/cosasNuevas.yy","order":22,"resourceVersion":"1.0","name":"cosasNuevas","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/objetos.yy","order":2,"resourceVersion":"1.0","name":"objetos","tags":[],"resourceType":"GMFolder",},
+=======
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
 =======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
   ],

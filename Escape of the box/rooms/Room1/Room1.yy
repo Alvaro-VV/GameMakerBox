@@ -345,6 +345,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"col","path":"objects/col/col.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":384.0,"resourceVersion":"1.0","name":"inst_5C268AD6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"col","path":"objects/col/col.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":416.0,"resourceVersion":"1.0","name":"inst_301E139B","tags":[],"resourceType":"GMRInstance",},
 <<<<<<< HEAD
+<<<<<<< HEAD
         {"properties":[],"isDnd":false,"objectId":{"name":"tp_player","path":"objects/tp_player/tp_player.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":352.0,"resourceVersion":"1.0","name":"inst_19346617","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"tp_player","path":"objects/tp_player/tp_player.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":416.0,"resourceVersion":"1.0","name":"inst_1FA0785","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"tp_player","path":"objects/tp_player/tp_player.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":-32.0,"resourceVersion":"1.0","name":"inst_7B7C7DF7","tags":[],"resourceType":"GMRInstance",},
@@ -384,6 +385,8 @@
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_2","tags":[],"resourceType":"GMRAssetLayer",},
     {"spriteId":{"name":"sprite4","path":"sprites/sprite4/sprite4.yy",},"colour":4294967295,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
 =======
+=======
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
         {"properties":[],"isDnd":false,"objectId":{"name":"tp_player","path":"objects/tp_player/tp_player.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":384.0,"resourceVersion":"1.0","name":"inst_728E597E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"tp_player","path":"objects/tp_player/tp_player.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":352.0,"resourceVersion":"1.0","name":"inst_19346617","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"tp_player","path":"objects/tp_player/tp_player.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":416.0,"resourceVersion":"1.0","name":"inst_1FA0785","tags":[],"resourceType":"GMRInstance",},
@@ -393,6 +396,9 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"Seba","path":"objects/Seba/Seba.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":320.0,"resourceVersion":"1.0","name":"inst_752C0EBF","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"sprite4","path":"sprites/sprite4/sprite4.yy",},"colour":4294967295,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
+<<<<<<< HEAD
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
+=======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
   ],
   "inheritLayers": false,
@@ -737,6 +743,7 @@
     {"name":"inst_1F5C8500","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_752C0EBF","path":"rooms/Room1/Room1.yy",},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"name":"inst_28893843","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_67E8919A","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_29100FDB","path":"rooms/Room1/Room1.yy",},
@@ -761,6 +768,8 @@
     {"name":"inst_14D38386","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_615EAFEA","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5A3E18B6","path":"rooms/Room1/Room1.yy",},
+=======
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
 =======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
   ],

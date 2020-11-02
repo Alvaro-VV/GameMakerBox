@@ -14,6 +14,7 @@
   ],
   "layers": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"assets":[
         {"spriteId":{"name":"Sprite67","path":"sprites/Sprite67/Sprite67.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":2.30612254,"scaleY":2.31506848,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":320.0,"resourceVersion":"1.0","name":"graphic_363EF8EA","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Sprite57","path":"sprites/Sprite57/Sprite57.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":2.39130425,"scaleY":2.28,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":384.0,"resourceVersion":"1.0","name":"graphic_3E7863B3","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -45,6 +46,8 @@
         {"spriteId":{"name":"Sprite46","path":"sprites/Sprite46/Sprite46.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":224.0,"resourceVersion":"1.0","name":"graphic_140520F","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Sprite46","path":"sprites/Sprite46/Sprite46.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":224.0,"resourceVersion":"1.0","name":"graphic_4B72A5F1","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
+=======
+>>>>>>> parent of 42ba8ec... actualización del 1 de nov
 =======
 >>>>>>> parent of 42ba8ec... actualización del 1 de nov
     {"instances":[
