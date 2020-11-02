@@ -4,7 +4,7 @@ if distance_to_point(x,288+32)<=5 && arriba==false
 {
 	arriba=true;
 }
-else if distance_to_point(x,288-16)<=5 && arriba==true
+ if distance_to_point(x,288-16)<=5 && arriba==true
 {
 	arriba=false;
 }
@@ -13,7 +13,7 @@ if arriba==true
 {
 	y-=0.5;
 }
-else if arriba==false
+ if arriba==false
 {
 	y+=0.5;
 }

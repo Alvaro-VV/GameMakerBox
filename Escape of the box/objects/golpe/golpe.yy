@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteGolpe",
-    "path": "sprites/spriteGolpe/spriteGolpe.yy",
+    "name": "hitbox",
+    "path": "sprites/hitbox/hitbox.yy",
   },
   "solid": false,
   "visible": true,
