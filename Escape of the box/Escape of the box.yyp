@@ -31,6 +31,7 @@
     {"id":{"name":"esquina","path":"objects/esquina/esquina.yy",},"order":0,},
     {"id":{"name":"pist3","path":"objects/pist3/pist3.yy",},"order":7,},
     {"id":{"name":"Sprite70","path":"sprites/Sprite70/Sprite70.yy",},"order":8,},
+    {"id":{"name":"aguadeLadito","path":"sprites/aguadeLadito/aguadeLadito.yy",},"order":18,},
     {"id":{"name":"Fuente1","path":"fonts/Fuente1/Fuente1.yy",},"order":0,},
     {"id":{"name":"puerta2S","path":"sprites/puerta2S/puerta2S.yy",},"order":5,},
     {"id":{"name":"Puerta_5G","path":"objects/Puerta_5G/Puerta_5G.yy",},"order":2,},
