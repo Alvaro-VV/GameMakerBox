@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Ar_Rojo",
+    "path": "sprites/Ar_Rojo/Ar_Rojo.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
